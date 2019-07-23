@@ -40,8 +40,7 @@ password. Please protect our patients, our co-workers, and our
 hospital by choosing a strong password. I highly recommend
 navigating to [random word
 generator](https://randomwordgenerator.com/) and let it generate 3-5
-random words for you as your password. You will need to include a
-number and a capital letter.
+random words for you as your password. 
 
 To change your password, click on your username. This will create a
 button called "My Account", click on that, then click on the large
