@@ -60,3 +60,11 @@ which isn't very helpful :)
 ![Resetting your password](images/reset_password.png)
 
 After you've had the system administrator reset your password, you should follow the instructions in [Changing Your Password](#changing-your-password).
+
+### Updating Your Personal Profile
+
+At this time, the only thing you can update in your personal profile is your password and your preferred language. We've already discussed changing your password, so if you want to change your language, follow these instructions, and consult the image in [Changing Your Password](#changing-your-password).
+
+ 1. Towards the top right of the page, click on your username next to the person icon.
+ 1. Click ‘My Account’ when it appears in the dropdown.
+ 1. Change your languages as necessary.
