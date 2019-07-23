@@ -10,7 +10,13 @@ of the page.
 
 This user manual is for all members of the Hamptons Hospital who need to use the EHR system. Our EHR is powered by [OpenMRS](https://openmrs.org/), and this user manual is largely based on OpenMRS' [user manual](https://wiki.openmrs.org/display/docs/Using+the+Reference+Application).
 
-## Logging In
+## Getting Started
+
+Before you can use the EHR system, you'll need to login. Below is
+everything you need to know to log in, change your password, help if
+you forget your password, and log out.
+
+### Logging In
 
 Before you can log in to the EHR you need someone else to create a
 username and password for you. Your supervisor should know who to ask
@@ -23,7 +29,7 @@ certain information and actions that other locations don't, so pick
 the location that most closely corresponds to where you are), and
 click "Log In".
 
-## Changing Your Password
+### Changing Your Password
 
 The first thing you should do after logging is to change your
 password. Please protect our patients, our co-workers, and our
