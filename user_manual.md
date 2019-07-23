@@ -45,4 +45,18 @@ password, you are ready to use the EHR system!
 
 ![Changing your password](images/changing_password.png)
 
+### Forgot Your Password?
 
+If you forgot your password, that's ok, we can reset it. However, it
+may take several hours, so do your best to remember your password.
+Unfortunately, our EHR system does not yet allow non-administrator
+users to reset their passwords directly. In order to have your
+password reset, contact your system administrator.
+
+Clicking the "Can't Log In?" button on the login screen will display
+a pop-up box prompting you to contact your local administrator,
+which isn't very helpful :)
+
+![Resetting your password](images/reset_password.png)
+
+After you've had the system administrator reset your password, you should follow the instructions in [Changing Your Password](#changing-your-password).
