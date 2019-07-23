@@ -177,3 +177,50 @@ Editing Contact Information:
 
 Note: The “Save Form” and “Exit Form” buttons can be used to close
 the form at any time.
+
+### Patient Overview screen
+
+The Patient Overview screen has a lot of good information in it, but
+most of it is simple enough that it doesn't warrant an entire
+section in this manual. If, however, you'd like more information,
+please go to the OpenMRS [wiki
+page](https://wiki.openmrs.org/pages/viewpage.action?pageId=221053347)
+
+### Scheduling an Appointment
+
+There are two ways to schedule an appointment: from the patient
+overview screen or from the OpenMRS home screen. This section will
+explain both options.
+
+To schedule a new patient appointment from the patient overview screen:
+
+ 1. On the right side of the screen under General Actions, click
+    Schedule Appointment.
+ 1. At the bottom of the screen under the heading Schedule a New
+    Appointment, begin typing in the Select Service Type box to
+    search for the type of appointment, or click View all types to
+    select the service type from a list.
+ 1. Select an appointment date by clicking the calendar icon in the
+    date selection box on the left and picking a date from the
+    calendar popup.
+ 1. Optionally, create a time frame to search for available
+    appointment times by clicking the calendar icon in the date
+    selection box on the right and picking an end date from the
+    calendar popup.
+ 1. Select the desired time block from the list of results by
+    clicking on the corresponding entry in the table of time blocks.
+ 1. Click Next at the bottom of the screen.
+ 1. Optionally, enter any desired additional notes for the health
+    care provider.
+ 1. Click Save at the bottom of the screen to schedule the appointment.
+
+To schedule a new patient appointment from the EHR home screen:
+
+ 1. On the OpenMRS home screen, click Appointment Scheduling.
+ 1. Click Manage Appointments.
+ 1. Search for the patient to schedule an appointment for by typing
+a name or patient ID into the search bar.
+ 1. Select the desired patient by clicking that patient's entry in
+the results table.
+ 1. Follow the instructions for a new patient appointment from the
+patient overview screen starting from step 2.
