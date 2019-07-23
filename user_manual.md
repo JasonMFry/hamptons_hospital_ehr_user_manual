@@ -80,3 +80,31 @@ language, follow these instructions, and consult the image in
     to the person icon.
  1. Click ‘My Account’ when it appears in the dropdown.
  1. Change your languages as necessary.
+
+## Working with Patients
+
+### Creating a Patient
+
+To create a new patient, follow these steps:
+
+ 1. Log into the OpenMRS system.
+ 1. Click on the 'Register a patient' box. If you don't see this
+    box, you may not be authorized to register a new patient.
+    Contact your supervisor.
+ 1. Enter a name for this new patient, or identify the patient as an
+    unidentified patient.
+ 1. Select a gender for your patient.
+ 1. Enter in the patient's birth date, or a rough estimate of how
+    old they are.
+ 1. Enter in the patient's home address.
+ 1. Enter in the patient's phone number.
+ 1. Enter in as few or as many of the patient's relatives, including
+    their name and relationship.
+ 1. Click the confirm button on the left side of the screen.
+ 1. Confirm that your entries are accurate.
+ 1. Click the green 'Confirm' button and your patient will be
+    written to the database.
+
+If you leave a required field blank, you will not be able to move on
+to the next section, so make sure you enter something in all the
+required fields.
