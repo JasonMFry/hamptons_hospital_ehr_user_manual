@@ -108,3 +108,72 @@ To create a new patient, follow these steps:
 If you leave a required field blank, you will not be able to move on
 to the next section, so make sure you enter something in all the
 required fields.
+
+### Editing a Patient's Information
+
+This section is about w to edit demographic information about a
+patient that already exists in the system, including name, gender,
+birth date, and contact information. 
+
+First you will need to navigate
+[home](http://10.0.0.41:8080/openmrs/), which you can do by clicking
+the Hamptons Hospital logo in the top left of the screen, or
+navigating their directly by going to
+http://10.0.0.41:8080/openmrs/. Once you're on the home screen, you
+should see a box called Find Patient Record. Click on this box.
+
+![Find patient record](images/find_patient_record.png)
+
+![Edit patient](images/edit_patient.png)
+
+ 1. Click on "Edit" next to the patient’s name and date of birth.
+ 1. You will be taken to the “Demographics” page where you can edit
+    the patient’s name, gender, and date of birth.
+ 1. Edit the patient’s name if desired.
+ 1. Select  “Gender” from the list under “Demographics” on the left
+    side of the page.
+ 1. Edit the patient’s gender if desired.
+ 1. Select  “Birthdate” from the list under “Demographics” on the
+    left side of the page.
+ 1. Edit the patient’s birth date or estimated age in years and
+    months if desired.
+ 1. Click “Confirm” at the bottom of the list under “Demographics”
+    on the left side of the page.
+ 1. You will be presented with an overview of the demographic
+    information for the patient and given the option to either
+    confirm or cancel the changes.
+ 1. Click either the “Confirm” button or “Cancel” button to finish
+    editing the patient’s demographics and return to the patient
+    overview screen.
+
+![Confirm edit patient](images/confirm_edit_patient.png)
+
+Note: The “Save Form” and “Exit Form” buttons can be used to close
+the form at any time.
+
+Editing Contact Information:
+
+![Edit contact information](images/edit_contact_info.png)
+
+ 1. Click on "Show Contact Info" next to the patient’s name and date
+    of birth.
+ 1. The patient information section at the top of the page will be
+    expanded to display the patient’s contact information.
+ 1. Click “Edit” next to the patient’s telephone number.
+ 1. Edit the patient’s address if desired.
+ 1. Select  “Phone Number” from the list under “Contact Info” on the
+    left side of the page.
+ 1. Edit the patient’s phone number if desired.
+ 1. Click “Confirm” at the bottom of the list under “Contact Info”
+    on the left side of the page.
+ 1. You will be presented with an overview of the demographic
+    information for the patient and given the option to either
+    confirm or cancel the changes.
+ 1. Click either the “Confirm” button or “Cancel” button to finish
+    editing the patient’s demographics and return to the patient
+    overview screen.
+
+![Confirm edit patient2](images/confirm_edit_patient2.png)
+
+Note: The “Save Form” and “Exit Form” buttons can be used to close
+the form at any time.
