@@ -6,13 +6,28 @@ Hi, and welcome to the Hamptons Hospital Electronic Health Records
 already have one, sign in to [github](https://github.com/), then go
 [here](https://github.com/JasonMFry/hamptons_hospital_ehr_user_manual/edit/master/user_manual.md),
 make changes, and finally click "Propose File Change" at the bottom
-of the page. 
+of the page.
 
 This user manual is for all members of the Hamptons Hospital who
 need to use the EHR system. Our EHR is powered by
 [OpenMRS](https://openmrs.org/), and this user manual is largely
 based on OpenMRS' [user
 manual](https://wiki.openmrs.org/display/docs/Using+the+Reference+Application).
+
+## Table of Contents
+
+- [Hamptons Hospital Electronic Health Records System User Manual](#hamptons-hospital-electronic-health-records-system-user-manual)
+  - [Table of Contents](#table-of-contents)
+  - [Getting Started](#getting-started)
+    - [Logging In](#logging-in)
+    - [Changing Your Password](#changing-your-password)
+    - [Forgot Your Password?](#forgot-your-password)
+    - [Updating Your Personal Profile](#updating-your-personal-profile)
+  - [Working with Patients](#working-with-patients)
+    - [Creating a Patient](#creating-a-patient)
+    - [Editing a Patient's Information](#editing-a-patients-information)
+    - [Patient Overview screen](#patient-overview-screen)
+    - [Scheduling an Appointment](#scheduling-an-appointment)
 
 ## Getting Started
 
@@ -40,7 +55,7 @@ password. Please protect our patients, our co-workers, and our
 hospital by choosing a strong password. I highly recommend
 navigating to [random word
 generator](https://randomwordgenerator.com/) and let it generate 3-5
-random words for you as your password. 
+random words for you as your password.
 
 To change your password, click on your username. This will create a
 button called "My Account", click on that, then click on the large
@@ -112,7 +127,7 @@ required fields.
 
 This section is about w to edit demographic information about a
 patient that already exists in the system, including name, gender,
-birth date, and contact information. 
+birth date, and contact information.
 
 First you will need to navigate
 [home](http://10.0.0.41:8080/openmrs/), which you can do by clicking
