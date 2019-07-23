@@ -1,0 +1,42 @@
+# Hamptons Hospital Electronic Health Records System User Manual
+
+Hi, and welcome to the Hamptons Hospital Electronic Health Records
+(EHR) System User Manual! If you want to help improve this manual,
+[create a github account](https://github.com/join) if you don't
+already have one, sign in to [github](https://github.com/), then go
+[here](https://github.com/JasonMFry/hamptons_hospital_ehr_user_manual/edit/master/user_manual.md),
+make changes, and finally click "Propose File Change" at the bottom
+of the page. 
+
+This user manual is for all members of the Hamptons Hospital who need to use the EHR system. Our EHR is powered by [OpenMRS](https://openmrs.org/), and this user manual is largely based on OpenMRS' [user manual](https://wiki.openmrs.org/display/docs/Using+the+Reference+Application).
+
+## Logging In
+
+Before you can log in to the EHR you need someone else to create a
+username and password for you. Your supervisor should know who to ask
+to create a user for you, if you don't already have one.
+
+Once you have a username and password, navigate to [the login
+page](http://10.0.0.41:8080/openmrs/login.htm), input your username
+and password, select a location (some locations have access to
+certain information and actions that other locations don't, so pick
+the location that most closely corresponds to where you are), and
+click "Log In".
+
+## Changing Your Password
+
+The first thing you should do after logging is to change your
+password. Please protect our patients, our co-workers, and our
+hospital by choosing a strong password. I highly recommend navigating
+to [random word generator](https://randomwordgenerator.com/) and let
+it generate 3-5 random words for you as your password. You will need
+to include a number and a capital letter.
+
+To change your password, click on your username. This will create a
+button called "My Account", click on that, then click on the large
+button called "Change Password". After you have changed your
+password, you are ready to use the EHR system!
+
+![Changing your password](images/changing_password.png)
+
+
