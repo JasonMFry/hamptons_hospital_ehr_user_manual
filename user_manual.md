@@ -204,7 +204,14 @@ The Patient Overview screen has a lot of good information in it, but
 most of it is simple enough that it doesn't warrant an entire
 section in this manual. If, however, you'd like more information,
 please go to the OpenMRS [wiki
-page](https://wiki.openmrs.org/pages/viewpage.action?pageId=221053347)
+page](https://wiki.openmrs.org/pages/viewpage.action?pageId=221053347).
+
+To get to the Patient Overview screen, click on Find Patient Record, search by
+the patient's ID or name, then click on the patient.
+
+![Find patient](images/find_patient_record.png)
+
+![Search for patient](images/select_patient_record.png)
 
 ### Scheduling an Appointment
 
