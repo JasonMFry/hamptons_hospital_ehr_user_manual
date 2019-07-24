@@ -23,7 +23,7 @@ manual](https://wiki.openmrs.org/display/docs/Using+the+Reference+Application).
     - [Changing Your Password](#changing-your-password)
     - [Forgot Your Password?](#forgot-your-password)
     - [Updating Your Personal Profile](#updating-your-personal-profile)
-  - [Working with Patients](#working-with-patients)
+  - [Registering and Scheduling Patients](#registering-and-scheduling-patients)
     - [Creating a Patient](#creating-a-patient)
     - [Editing a Patient's Information](#editing-a-patients-information)
     - [Patient Overview screen](#patient-overview-screen)
@@ -95,7 +95,11 @@ language, follow these instructions, and consult the image in
  1. Click ‘My Account’ when it appears in the dropdown.
  1. Change your languages as necessary.
 
-## Working with Patients
+## Registering and Scheduling Patients
+
+This section is focused on staff at the front desk who need to
+register new patients, check in a patient when they arrive for their
+appointment, schedule future visits, and take payment.
 
 ### Creating a Patient
 
