@@ -28,6 +28,7 @@ manual](https://wiki.openmrs.org/display/docs/Using+the+Reference+Application).
     - [Editing a Patient's Information](#editing-a-patients-information)
     - [Patient Overview screen](#patient-overview-screen)
     - [Scheduling an Appointment](#scheduling-an-appointment)
+    - [Checking in a Patient](#checking-in-a-patient)
     - [Receiving Payment](#receiving-payment)
 
 ## Getting Started
@@ -243,6 +244,13 @@ a name or patient ID into the search bar.
 the results table.
  1. Follow the instructions for a new patient appointment from the
 patient overview screen starting from step 2.
+
+### Checking in a Patient
+
+To check in a patient, navigate to the [Patient Overview
+screen](#patient-overview-screen). Once there, click on Start Visit.
+
+![Start visit](images/start_visit.png)
 
 ### Receiving Payment
 
