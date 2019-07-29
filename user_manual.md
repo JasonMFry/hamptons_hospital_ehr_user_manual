@@ -228,7 +228,8 @@ To schedule a new patient appointment from the patient overview screen:
 To schedule a new patient appointment from the EHR home screen:
 
  1. On the OpenMRS home screen, click Appointment Scheduling.
- 1. Click Manage Appointments.
+ 1. Click Manage Appointments. Note that Daily Appointments does not work, it
+ is a bug and we hope to fix it soon.
  1. Search for the patient to schedule an appointment for by typing a name or
  patient ID into the search bar.
  1. Select the desired patient by clicking that patient's entry in the results
