@@ -126,7 +126,7 @@ next section, so make sure you enter something in all the required fields.
 
 ### Editing a Patient's Information
 
-This section is about w to edit demographic information about a patient that
+This section is about how to edit demographic information about a patient that
 already exists in the system, including name, gender, birth date, and contact
 information.
 
