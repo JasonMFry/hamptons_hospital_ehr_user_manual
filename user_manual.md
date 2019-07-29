@@ -29,8 +29,6 @@ manual](https://wiki.openmrs.org/display/docs/Using+the+Reference+Application).
     - [Patient Overview screen](#patient-overview-screen)
     - [Scheduling an Appointment](#scheduling-an-appointment)
     - [Checking in a Patient](#checking-in-a-patient)
-  - [Caring for Patients](#caring-for-patients)
-    - [Capturing Vitals](#capturing-vitals)
 
 ## Getting Started
 
@@ -242,19 +240,3 @@ To check in a patient, navigate to the [Patient Overview
 screen](#patient-overview-screen). Once there, click on Start Visit.
 
 ![Start visit](images/start_visit.png)
-
-## Caring for Patients
-
-This section covers the basics of caring for patients, including taking vitals,
-entering notes, and ordering tests and scans.
-
-### Capturing Vitals
-
-Before you can capture a patient's vitals, they must be checked in. See
-[Checking in a Patient](#checking-in-a-patient). Once the patient is checked
-in, click on Capture Vitals on the home page, search for the patient, and input
-their vitals.
-
-![Capture vitals](images/capture_vitals.png)
-
-![Input vitals](images/input_vitals.png)
