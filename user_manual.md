@@ -189,9 +189,9 @@ any time.
 
 ### Patient Overview screen
 
-The Patient Overview screen has a lot of good information in it, but most of it
-is simple enough that it doesn't warrant an entire section in this manual. If,
-however, you'd like more information, please go to the OpenMRS [wiki
+The Patient Overview screen has a lot of good information in it, and hopefully
+it is easy enough to understand. If, however, you'd like more information,
+please go to the OpenMRS [wiki
 page](https://wiki.openmrs.org/pages/viewpage.action?pageId=221053347).
 
 To get to the Patient Overview screen, click on Find Patient Record, search by
