@@ -29,7 +29,6 @@ manual](https://wiki.openmrs.org/display/docs/Using+the+Reference+Application).
     - [Patient Overview screen](#patient-overview-screen)
     - [Scheduling an Appointment](#scheduling-an-appointment)
     - [Checking in a Patient](#checking-in-a-patient)
-    - [Receiving Payment](#receiving-payment)
   - [Caring for Patients](#caring-for-patients)
     - [Capturing Vitals](#capturing-vitals)
 
@@ -98,8 +97,8 @@ and consult the image in [Changing Your Password](#changing-your-password).
 ## Registering and Scheduling Patients
 
 This section is focused on staff at the front desk who need to register new
-patients, check in a patient when they arrive for their appointment, schedule
-future visits, and take payment.
+patients, check in a patient when they arrive for their appointment, and
+schedule future visits.
 
 ### Creating a Patient
 
@@ -243,79 +242,6 @@ To check in a patient, navigate to the [Patient Overview
 screen](#patient-overview-screen). Once there, click on Start Visit.
 
 ![Start visit](images/start_visit.png)
-
-### Receiving Payment
-
-To create a new bill, click on the Cashier button from the home screen, then
-Cashier Tasks and finally Create new bill.
-
-![Cashier tasks](images/cashier_tasks.png)
-
-![Create bill](images/create_bill.png)
-
-The bill screen can be divided into five sections:
-
-1. Basic information
-1. Patient selection
-1. Line items
-1. Payments
-1. Operations
-
-![Bill page](images/bill_page_sections.png)
-
-**Basic Information**
-
-This section displays information such as the cashier and cash point associated
-with the bill.  When viewing a saved bill, the receipt number and date of the
-bill will also be shown.
-
-**Patient Selection**
-
-This section shows the patient associated with the bill.  If no patient has
-been selected, or if the bill is being edited and a user wishes to change the
-selected patient, it is possible to search for a patient by name or identifier
-and select any existing patient.
-
-**Line items: Adding and Editing**
-
-The line items section of the bill screen displays all billable items for the
-bill.  There is always a blank line at the end of the list which allows for the
-entry of a new item.  Line items for a bill that has not been posted can also
-be removed using the trash can at the left of the line.
-
-To choose an item for a new line item entry, or to edit a previously chosen
-item, begin typing the name or the identifier of the item.  With a search
-string of at least three characters, the system will search the item inventory
-and show a list of results. The desired result can be selected with the mouse
-or by using the up/down arrow keys.
-
-The changes to a line are validated and saved by pressing Enter or if the line
-loses focus (i.e., when clicking another area of the screen).
-
-A summary of the bill is displayed at the bottom of the line items section,
-indicating the total of the line items, the total amount tendered by the
-client, and the change due, if applicable.
-
-**Payments and Payment Processing/Operations**
-
-This is the section where payment information is recorded. A bill can be
-settled using multiple payments or can be partially settled. Bills can be in
-one of the following states:
-
-1. **Pending:** The bill has all of the required information (i.e. patient, and
-at least one line item) and has been saved.  Pending bills can be edited
-without the need of a bill adjustment. A bill enters this state when you click
-on "Save Bill" from the Bill Page.
-1. **Posted:** The bill is automatically posted when the total of the
-payment(s) processed is not equal to the bill's total. It can also be manually
-posted using the "Post Bill" button.  Posted bills can be printed.
-1. **Paid:** A posted bill is marked as paid when the total of the payments
-processed is equal to (or greater than) the bill's total.  A paid bill can
-still be adjusted.
-1. **Adjusted:** A bill is marked as adjusted when a new bill is created to
-adjust it.  The Bill Screen will indicate that a bill has been adjusted and
-provide a link to the adjusting bill. Adjusted bills are stored for auditing
-but can no longer be modified or printed from the Bill Screen.
 
 ## Caring for Patients
 
