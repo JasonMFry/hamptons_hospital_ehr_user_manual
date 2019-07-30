@@ -43,7 +43,7 @@ password for you. Your supervisor should know who to ask to create a user for
 you, if you don't already have one.
 
 Once you have a username and password, navigate to [the login
-page](http://10.0.0.41:8080/openmrs/login.htm), input your username and
+page](https://10.40.0.10:8443/openmrs/login.htm), input your username and
 password, select a location (some locations have access to certain information
 and actions that other locations don't, so pick the location that most closely
 corresponds to where you are), and click "Log In".
@@ -127,10 +127,10 @@ This section is about how to edit demographic information about a patient that
 already exists in the system, including name, gender, birth date, and contact
 information.
 
-First you will need to navigate [home](http://10.0.0.41:8080/openmrs/), which
+First you will need to navigate [home](https://10.40.0.10:8443/openmrs/), which
 you can do by clicking the Hamptons Hospital logo in the top left of the
 screen, or navigating their directly by going to
-http://10.0.0.41:8080/openmrs/. Once you're on the home screen, you should see
+https://10.40.0.10:8443/openmrs/. Once you're on the home screen, you should see
 a box called Find Patient Record. Click on this box.
 
 ![Find patient record](images/find_patient_record.png)
